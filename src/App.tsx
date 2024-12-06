@@ -3,7 +3,7 @@ import Main from "./components";
 function App() {
   return (
     <>
-      <div className="">
+      <div className=" max-w-[1500px] ">
         <Main />
       </div>
     </>

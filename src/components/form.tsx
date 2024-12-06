@@ -73,9 +73,9 @@ export default function InputForm() {
           <div className="flex justify-between mt-10">
             <div className="flex gap-2">
               <input type="checkbox" />
-              <p> Remember me</p>
+              <p className="text-[#718096]"> Remember me</p>
             </div>
-            <p>Forgot Password? </p>
+            <p className="border-b-2 text-[#1C4532] border-b-[#1C4532]">Forgot Password? </p>
           </div>
 
           <div className="mt-6">
@@ -84,7 +84,7 @@ export default function InputForm() {
             </button>
           </div>
 
-          <div className="flex justify-between items-center gap-2 mt-4">
+          <div className="flex justify-between items-center gap-2 mt-6">
             <div className="border w-[45%] h-[1px]" />
             <div className=" w-[5%]">
               <p> OR </p>

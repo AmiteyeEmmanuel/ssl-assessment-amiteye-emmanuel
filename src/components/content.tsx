@@ -2,7 +2,7 @@ import { ContentInfo, LeftIcon, RightIcon } from "../assets";
 
 export default function Content() {
     return (
-      <section className="bg-[#1C4532] w-full pt-10 pb-20 relative overflow-hidden">
+      <section className="bg-[#1C4532] w-full pt-10 pb-24  relative overflow-hidden">
         <div className="items-center justify-center">
           <div className="text-[#FFF] text-center">
             {/* <img className=""  src={FemaleIcon} alt="femaleIcon"/> */}
