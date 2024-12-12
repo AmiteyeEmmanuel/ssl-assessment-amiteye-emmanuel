@@ -8,7 +8,7 @@ export default function Main() {
          <InputForm />
       </div>
 
-      <div className="order-1 lg:order-2 lg:w-1/2 w-full h-[880px] pb-20 bg-[#1C4532]">
+      <div className="order-1 lg:order-2 lg:w-1/2 w-full lg:h-[880px] h-[1300px] pb-24 bg-[#1C4532]">
         <Content />
       </div>
     </section>

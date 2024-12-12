@@ -10,7 +10,7 @@ export default function Content() {
           </div>
   
           {/* Circle background element */}
-          <div className="circle rounded-full bg-[#F7FAFC] w-[803.19px] h-[792.79px] absolute bottom-[28rem] z-0 opacity-20 right-[-22rem]" />
+          <div className="circle rounded-full bg-[#F7FAFC] w-[803.19px] h-[792.79px] absolute bottom-[32rem] lg:bottom-[22.5rem] z-0 opacity-20 right-[-22rem]" />
   
           {/* Content Info */}
           <div className="justify-center items-center mx-auto flex mt-40 relative z-10">
